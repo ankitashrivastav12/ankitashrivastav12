@@ -29,7 +29,9 @@
 
 ## 📬 Let's Connect!  
 🌐 **Portfolio:** https://ankitashrivastav12.github.io/portfolio/
+
 💼 **LinkedIn:** https://www.linkedin.com/in/ankitashrivastav12
+
 📧 **Email:** shrivastavankita103@gmail.com   
 
 ---
